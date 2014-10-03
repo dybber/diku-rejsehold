@@ -21,8 +21,9 @@ dagsordener. Den eneste dagsorden her skal være:
 Målsætning
 ----------
 Få startet et netværk af frivillige ala
-  https://www.codeclub.org.uk/
-  https://coderdojo.com/
+
+ * https://www.codeclub.org.uk/
+ * https://coderdojo.com/
 
 Jeg købte CoderDojo.dk i 2012 og ejer det stadig, men fik aldrig gået
 videre med idéen pga. seneskedehindebetændelse, PhD-life etc.
@@ -33,5 +34,5 @@ videre med idéen pga. seneskedehindebetændelse, PhD-life etc.
 
 Oversæt undervisningsmateriale til Dansk
 ----------------------------------------
-The Nature of Code
-Khanacademy (Jeg er i gang her)
+ * The Nature of Code
+ * Khanacademy (Jeg er i gang her)
