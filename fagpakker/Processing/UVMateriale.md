@@ -38,9 +38,13 @@ https://www.khanacademy.org/computing/cs/browse
 https://www.khanacademy.org/profile/onetruetroy/programs
 https://www.khanacademy.org/cs/bacteria-spin-off/6118789281218560
 https://www.khanacademy.org/profile/rayjfriend/programs
-
+https://www.khanacademy.org/cs/3d-double-stranded-dna/1170514481
+https://www.khanacademy.org/cs/bubbly-curves/827788760
 
 http://formandcode.com/code-examples/ (Java)
+
+Vis dem "Atoms In Motion" på en iPad:
+https://www.youtube.com/watch?v=GgC48D3zRyU
 
 
 Andre idéer

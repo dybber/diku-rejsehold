@@ -34,5 +34,12 @@ N-Body
 
 Paddleball / Breakout!
 
+Java-Processing implementation af Breakout:
+http://trsp.net/teaching/gamemod/
+http://trsp.net/teaching/gamemod/gamemod_breakout_source_en.zip
+
 Her er inspiration til Break-out opgaver:
 http://www.cs.cornell.edu/Courses/cs1110/2014sp/assignments/assignment5/index.php
+
+
+Visualisering af Monte-Carlo integration. Simpelt 2. grads polynomie og
