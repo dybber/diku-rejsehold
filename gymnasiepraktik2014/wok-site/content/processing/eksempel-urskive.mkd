@@ -1,5 +1,6 @@
 title: "Større eksempel: Analogt Ur"
 processing: enable
+category: processing
 slug: urskive
 ---
 

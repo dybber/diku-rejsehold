@@ -28,7 +28,6 @@ href="http://khanacademy.org/cs/new/pjs">khanacademy.org/cs/new/pjs</a>
   <li><a href="processing/randomness.html">Del 6: Tilfældighed</a></li>
   <li><a href="processing/montecarlo-pi.html">Eksempel: Beregning af π</a></li>
   <li><a href="processing/urskive.html">Eksempel: Analogt ur</a></li>
-  <li><a href="processing/videre.html">Videre med Processing: Links, videoer, bøger mv.</a></li>
 </ul>
 
 <h2>Break-out!</h2>
