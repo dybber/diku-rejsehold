@@ -9,12 +9,14 @@ system.
 Pseudo-Læringsmål
 -----------------
 
+("Pseudo-læringsmål", da det egentlige læringsmål er at vise dem at Datalogi er vigtigt, samfundsrelevant og ikke bare matematik og programmering)
+
  * At kunne adskille problemer i mindre dele
 
  * At kunne definere grænseflader mellem forskellige komponenter af et
    større system
 
- * At kunne tage planlægge afprøvning
+ * At kunne planlægge afprøvning
 
 
 
