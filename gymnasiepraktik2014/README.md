@@ -8,7 +8,7 @@ Find hjemmesiden her: <http://www.diku.dk/~dybber/gymnasiepraktik2014/>
 
 Installation
 ------------
-Hjemmesiden er skrevet vha. Wok.
+Hjemmesiden er skrevet med Wok: http://wok.mythmon.com/
 
 Installer Wok og dets afhængigheder vha.:
 
