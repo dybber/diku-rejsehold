@@ -55,7 +55,7 @@ http://littlebits.cc/browse-lessons/introduction-to-logic
 
 Bogen om EDB
 ------------
-Der er noget inspiration i [Bogen om EDB](BogenOmEDB-HvadErData.pdf),
+Der er noget inspiration i [Bogen om EDB](https://github.com/dybber/diku-rejsehold/raw/master/fagpakker/BogenOmEDB-HvadErData.pdf),
 hvor de temmelig pædagogisk forklarer talsystemer og half-adder og
 hel-adder kredsløb. Jeg tænker at man kunne bruge deres fremgangsmåde
 som inspiration til undervisningsmateriale om Logisim/litteBits.
