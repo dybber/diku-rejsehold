@@ -22,7 +22,7 @@ href="http://khanacademy.org/cs/new/pjs">khanacademy.org/cs/new/pjs</a>
 <ul>
   <li><a href="processing/figurer.html">Del 1: Figurer</a></li>
   <li><a href="processing/farver.html">Del 2: Farver</a></li>
-  <li><a href="processing/variabler.html">Del 3: Variabler</a></li>
+  <li><a href="processing/variable.html">Del 3: Variable</a></li>
   <li><a href="processing/animation-1.html">Del 4: Bevægelse og animation #1</a></li>
   <li><a href="processing/animation-2.html">Del 5: Bevægelse og animation #2</a></li>
   <li><a href="processing/randomness.html">Del 6: Tilfældighed</a></li>
@@ -31,7 +31,7 @@ href="http://khanacademy.org/cs/new/pjs">khanacademy.org/cs/new/pjs</a>
 </ul>
 
 <h2>Break-out!</h2>
-*Brug musen til at styre.*
+*Brug musen til at styre.* [Lav et Spin-off på KhanAcademy](https://www.khanacademy.org/computer-programming/break-out/4956612056055808)
 
 <canvas data-processing-sources="processing-examples/BreakOut.js" class="processing-example-canvas">
 <p>Your browser does not support the canvas tag.</p>

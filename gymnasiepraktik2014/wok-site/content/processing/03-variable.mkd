@@ -1,12 +1,12 @@
-title: Variabler
+title: Variable
 processing: enable
 category: processing
-slug: variabler
+slug: variable
 ---
 
 Opgave 5
 --------
-*Til denne opgave skal du ikke bruge variabler.*
+*Til denne opgave skal du ikke bruge variable.*
 
 Flyt bilen fra *Opgave 1* og *Opgave 3* helt hen i venstre side af
  billedet ved at ændre på koordinaterne (de første to argumenter til
@@ -27,10 +27,10 @@ Flyt bilen fra *Opgave 1* og *Opgave 3* helt hen i venstre side af
 </script>
 <canvas id="moveCarLeft" class="processing-example-canvas"></canvas>
 
-Introduktion til variabler
---------------------------
+Introduktion til variable
+-------------------------
 Før du kan få dine figurer sat i bevægelse, har du brug for at lære om
-et nyt koncept: *variabler*.
+et nyt koncept: *variable*.
 
 Nogle gange har vi brug den samme værdi mange steder, i stedet for at
 gentage de samme tal over det hele, kan vi gemme denne værdi i en

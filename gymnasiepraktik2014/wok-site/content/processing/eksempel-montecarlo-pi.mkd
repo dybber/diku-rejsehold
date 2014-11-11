@@ -94,7 +94,7 @@ cirkel eller uden for en cirkel og tæller antal *hits* op.
 Afgørelsen kan træffes ved at mål afstanden fra centrum til punktet og
 se om afstanden er mindre end cirklens radius. Brug afstandsformlen:
 
-<p>$$|AB| = \sqrt{(b_1 - a_1)^2 + (b_2 - a_2)^2}$$</p>
+<p>$$|AB| = \sqrt{(x_B - x_A)^2 + (y_B - y_A)^2}$$</p>
 
 Hvis man f.eks. vil finde afstanden mellem punkterne (1,2) og (5,3) er den
 $$|AB|=\sqrt{(5-1)^2+(3-2)^2}=\sqrt{16+1}=\sqrt{17}\approx4,123$$
@@ -118,6 +118,7 @@ draw = function() {
     // Vælg et tilfældigt punkt i kvadratet
     var x = random(0,2*r);
     var y = random(0,2*r);
+    stroke(0,0,0);
     point(x,y);
     total = total + 1;
 

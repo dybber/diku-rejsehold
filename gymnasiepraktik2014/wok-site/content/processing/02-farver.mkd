@@ -76,5 +76,5 @@ evt. flere streger som vist nedenfor.
 <canvas id="colourLines" class="processing-example-canvas"></canvas>
 
 <div class="next">
-Næste emne: <a href="processing/variabler.html">Variabler</a>
+Næste emne: <a href="processing/variable.html">Variable</a>
 </div>

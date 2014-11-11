@@ -14,6 +14,9 @@ artiklerne om DIKU udgivet ifbm. 40 års jubilæet
 
 <br />
 
+### Torbens slides
+<a href="Datalogi.pdf">Slides fra onsdag morgen (PDF)</a>
+
 ### Video om datalogistudiet
 
 <div style="width: 504px; height: 309px; margin: 0 auto;">

@@ -42,9 +42,9 @@ draw = function () {
 </script>
 <canvas id="ball" class="processing-example-canvas"></canvas>
 
-Variabler igen
---------------
-Til det formål skal vi bruge variabler, og vi skal ændre variablerne
+Mere om variable
+----------------
+Til det formål skal vi bruge variable, og vi skal ændre variablene
 hver gang billedet bliver tegnet.
 
 I eksemplet med bilen kan vi starte med at sætte positionen af bilen
@@ -100,7 +100,7 @@ program, så samtidig med betingelser har vi også brug for at kunne
 lave sammenligninger mellem forskellige tal. Så i stedet skriver vi:
 
 ```javascript
-if (xpos < width) {
+if (xpos > width) {
   // Hvad du skriver her bliver kun kørt hvis
   // xpos er mindre end bredden af billedet
 }
