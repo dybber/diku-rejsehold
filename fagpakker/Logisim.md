@@ -18,6 +18,7 @@ Læringsmål
  * Hvordan afvikler en computer et program?
  * Hvordan måler man "information"?
 
+
 Aktiviteter
 -----------
  * Diverse små opgaver med AND/OR/NOT-gates
@@ -51,3 +52,10 @@ http://littlebits.cc/boost-its/logic
 
 ### Undervisningsmateriale
 http://littlebits.cc/browse-lessons/introduction-to-logic
+
+Bogen om EDB
+------------
+Der er noget inspiration i [Bogen om EDB](BogenOmEDB-HvadErData.pdf),
+hvor de temmelig pædagogisk forklarer talsystemer og half-adder og
+hel-adder kredsløb. Jeg tænker at man kunne bruge deres fremgangsmåde
+som inspiration til undervisningsmateriale om Logisim/litteBits.
